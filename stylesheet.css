@@ -1,0 +1,47 @@
+#form1{
+	display:block;
+}
+#form2{
+	display:none;
+}
+
+.form-style{
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 5%;
+}
+
+.header {
+	background-color: #9933cc;
+	color: #ffffff;
+	padding: 15px;
+	text-align: center;
+}
+
+.required:after {
+		content: " *";
+		color: red;
+}
+
+.hiddenEle{
+	color: red; 
+	visibility:hidden;
+}
+
+.update{
+    margin-left: 21%;
+}
+
+.dropdown1form2{
+	margin-left: 29%;
+	margin-right: 29%;
+}
+.variableInput{
+	margin-left: 30%;
+}
+.variabletext{
+	margin-left: 8%;
+}
+.variableradio{
+	margin-left: 0%;
+}
